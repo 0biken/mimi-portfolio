@@ -1,0 +1,473 @@
+[
+  {
+    "collection": "Crowned in Violet",
+    "folder": "01-crowned-in-violet",
+    "line": "Sculpted gele, gold-leaf florals and a gaze that holds the room.",
+    "mood": [
+      "Regal",
+      "Sculptural",
+      "Still"
+    ],
+    "best_for": "Beauty campaigns, cover images, headwear and jewellery brands.",
+    "note": "",
+    "files": [
+      {
+        "frame": 49,
+        "file": "01-crowned-in-violet/crowned-in-violet-49-hero.jpg",
+        "role": "hero"
+      },
+      {
+        "frame": 52,
+        "file": "01-crowned-in-violet/crowned-in-violet-52-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 53,
+        "file": "01-crowned-in-violet/crowned-in-violet-53-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 66,
+        "file": "01-crowned-in-violet/crowned-in-violet-66-pick.jpg",
+        "role": "pick"
+      }
+    ]
+  },
+  {
+    "collection": "Twin Crowns",
+    "folder": "02-twin-crowns",
+    "line": "Two faces, one fabric: a study in sisterhood and shade.",
+    "mood": [
+      "Intimate",
+      "Tender",
+      "Mirrored"
+    ],
+    "best_for": "Skincare and shade-range stories, editorial spreads.",
+    "note": "Features a second model. Get their consent before any use.",
+    "files": [
+      {
+        "frame": 50,
+        "file": "02-twin-crowns/twin-crowns-50-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 51,
+        "file": "02-twin-crowns/twin-crowns-51-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 64,
+        "file": "02-twin-crowns/twin-crowns-64-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 65,
+        "file": "02-twin-crowns/twin-crowns-65-hero.jpg",
+        "role": "hero"
+      },
+      {
+        "frame": 67,
+        "file": "02-twin-crowns/twin-crowns-67-pick.jpg",
+        "role": "pick"
+      }
+    ]
+  },
+  {
+    "collection": "Fuchsia in Full Bloom",
+    "folder": "03-fuchsia-in-full-bloom",
+    "line": "Sculpted shoulders, a sunlit courtyard and a dress that moves before she does.",
+    "mood": [
+      "Bold",
+      "Sunlit",
+      "Joyful"
+    ],
+    "best_for": "Fashion lookbooks, designer features, statement-dress campaigns.",
+    "note": "21 frames, mostly near-duplicates. Lead with the four shown; archive the rest.",
+    "files": [
+      {
+        "frame": 14,
+        "file": "03-fuchsia-in-full-bloom/fuchsia-in-full-bloom-14-hero.jpg",
+        "role": "hero"
+      },
+      {
+        "frame": 15,
+        "file": "03-fuchsia-in-full-bloom/fuchsia-in-full-bloom-15-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 16,
+        "file": "03-fuchsia-in-full-bloom/fuchsia-in-full-bloom-16-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 17,
+        "file": "03-fuchsia-in-full-bloom/fuchsia-in-full-bloom-17-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 18,
+        "file": "03-fuchsia-in-full-bloom/fuchsia-in-full-bloom-18-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 19,
+        "file": "03-fuchsia-in-full-bloom/fuchsia-in-full-bloom-19-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 20,
+        "file": "03-fuchsia-in-full-bloom/fuchsia-in-full-bloom-20-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 21,
+        "file": "03-fuchsia-in-full-bloom/fuchsia-in-full-bloom-21-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 22,
+        "file": "03-fuchsia-in-full-bloom/fuchsia-in-full-bloom-22-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 23,
+        "file": "03-fuchsia-in-full-bloom/fuchsia-in-full-bloom-23-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 24,
+        "file": "03-fuchsia-in-full-bloom/fuchsia-in-full-bloom-24-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 25,
+        "file": "03-fuchsia-in-full-bloom/fuchsia-in-full-bloom-25-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 26,
+        "file": "03-fuchsia-in-full-bloom/fuchsia-in-full-bloom-26-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 27,
+        "file": "03-fuchsia-in-full-bloom/fuchsia-in-full-bloom-27-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 28,
+        "file": "03-fuchsia-in-full-bloom/fuchsia-in-full-bloom-28-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 29,
+        "file": "03-fuchsia-in-full-bloom/fuchsia-in-full-bloom-29-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 30,
+        "file": "03-fuchsia-in-full-bloom/fuchsia-in-full-bloom-30-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 31,
+        "file": "03-fuchsia-in-full-bloom/fuchsia-in-full-bloom-31-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 32,
+        "file": "03-fuchsia-in-full-bloom/fuchsia-in-full-bloom-32-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 33,
+        "file": "03-fuchsia-in-full-bloom/fuchsia-in-full-bloom-33-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 39,
+        "file": "03-fuchsia-in-full-bloom/fuchsia-in-full-bloom-39-archive.jpg",
+        "role": "archive"
+      }
+    ]
+  },
+  {
+    "collection": "Runway on Campus",
+    "folder": "04-runway-on-campus",
+    "line": "Front steps, a festival banner and a full skirt caught mid-twirl.",
+    "mood": [
+      "Live",
+      "Festive",
+      "Public"
+    ],
+    "best_for": "Event recaps, press coverage, show announcements.",
+    "note": "Event branding is in frame. Confirm usage with the organisers.",
+    "files": [
+      {
+        "frame": 9,
+        "file": "04-runway-on-campus/runway-on-campus-09-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 10,
+        "file": "04-runway-on-campus/runway-on-campus-10-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 11,
+        "file": "04-runway-on-campus/runway-on-campus-11-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 12,
+        "file": "04-runway-on-campus/runway-on-campus-12-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 13,
+        "file": "04-runway-on-campus/runway-on-campus-13-hero.jpg",
+        "role": "hero"
+      },
+      {
+        "frame": 34,
+        "file": "04-runway-on-campus/runway-on-campus-34-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 35,
+        "file": "04-runway-on-campus/runway-on-campus-35-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 36,
+        "file": "04-runway-on-campus/runway-on-campus-36-archive.jpg",
+        "role": "archive"
+      }
+    ]
+  },
+  {
+    "collection": "Cobalt Siren",
+    "folder": "05-cobalt-siren",
+    "line": "Saturated blue, crimson drapery and thigh-high boots: studio drama turned all the way up.",
+    "mood": [
+      "Dramatic",
+      "Graphic",
+      "Sultry"
+    ],
+    "best_for": "Fashion campaigns, footwear, nightlife and evening wear.",
+    "note": "",
+    "files": [
+      {
+        "frame": 56,
+        "file": "05-cobalt-siren/cobalt-siren-56-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 57,
+        "file": "05-cobalt-siren/cobalt-siren-57-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 58,
+        "file": "05-cobalt-siren/cobalt-siren-58-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 59,
+        "file": "05-cobalt-siren/cobalt-siren-59-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 60,
+        "file": "05-cobalt-siren/cobalt-siren-60-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 61,
+        "file": "05-cobalt-siren/cobalt-siren-61-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 62,
+        "file": "05-cobalt-siren/cobalt-siren-62-hero.jpg",
+        "role": "hero"
+      }
+    ]
+  },
+  {
+    "collection": "Soft Power in Sage",
+    "folder": "06-soft-power-in-sage",
+    "line": "Mint gele, liquid satin and a glow that does the talking.",
+    "mood": [
+      "Luminous",
+      "Polished",
+      "Bridal"
+    ],
+    "best_for": "Makeup artistry, bridal, gele stylists, beauty close-ups.",
+    "note": "Confirm the subject and the makeup credit before publishing.",
+    "files": [
+      {
+        "frame": 38,
+        "file": "06-soft-power-in-sage/soft-power-in-sage-38-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 40,
+        "file": "06-soft-power-in-sage/soft-power-in-sage-40-hero.jpg",
+        "role": "hero"
+      },
+      {
+        "frame": 41,
+        "file": "06-soft-power-in-sage/soft-power-in-sage-41-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 42,
+        "file": "06-soft-power-in-sage/soft-power-in-sage-42-pick.jpg",
+        "role": "pick"
+      }
+    ]
+  },
+  {
+    "collection": "Ankara Sunday",
+    "folder": "07-ankara-sunday",
+    "line": "Wax print, puff sleeves and a sky the colour of a holiday.",
+    "mood": [
+      "Heritage",
+      "Playful",
+      "Bright"
+    ],
+    "best_for": "Ankara designers, cultural campaigns, festive collections.",
+    "note": "Low resolution (750 px). Fine for social; request originals for print.",
+    "files": [
+      {
+        "frame": 43,
+        "file": "07-ankara-sunday/ankara-sunday-43-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 44,
+        "file": "07-ankara-sunday/ankara-sunday-44-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 45,
+        "file": "07-ankara-sunday/ankara-sunday-45-hero.jpg",
+        "role": "hero"
+      }
+    ]
+  },
+  {
+    "collection": "Off-Duty Noir",
+    "folder": "08-off-duty-noir",
+    "line": "Black tank, braids and shades on: campus streets, unposed and self-assured.",
+    "mood": [
+      "Cool",
+      "Casual",
+      "Real"
+    ],
+    "best_for": "Lifestyle, eyewear, haircare and braids, everyday social content.",
+    "note": "",
+    "files": [
+      {
+        "frame": 2,
+        "file": "08-off-duty-noir/off-duty-noir-02-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 3,
+        "file": "08-off-duty-noir/off-duty-noir-03-hero.jpg",
+        "role": "hero"
+      },
+      {
+        "frame": 4,
+        "file": "08-off-duty-noir/off-duty-noir-04-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 5,
+        "file": "08-off-duty-noir/off-duty-noir-05-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 6,
+        "file": "08-off-duty-noir/off-duty-noir-06-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 7,
+        "file": "08-off-duty-noir/off-duty-noir-07-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 8,
+        "file": "08-off-duty-noir/off-duty-noir-08-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 54,
+        "file": "08-off-duty-noir/off-duty-noir-54-pick.jpg",
+        "role": "pick"
+      }
+    ]
+  },
+  {
+    "collection": "Garden Reverie",
+    "folder": "09-garden-reverie",
+    "line": "A crown of leaves, a string of pearls and daydreams in black and white.",
+    "mood": [
+      "Dreamy",
+      "Natural",
+      "Nostalgic"
+    ],
+    "best_for": "Fragrance, jewellery, slow fashion and wellness stories.",
+    "note": "Low resolution (756 px). Fine for social; request originals for print.",
+    "files": [
+      {
+        "frame": 46,
+        "file": "09-garden-reverie/garden-reverie-46-hero.jpg",
+        "role": "hero"
+      },
+      {
+        "frame": 47,
+        "file": "09-garden-reverie/garden-reverie-47-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 48,
+        "file": "09-garden-reverie/garden-reverie-48-pick.jpg",
+        "role": "pick"
+      }
+    ]
+  },
+  {
+    "collection": "In Motion",
+    "folder": "10-in-motion",
+    "line": "Video clips; poster frames only.",
+    "mood": [],
+    "best_for": "",
+    "note": "",
+    "files": [
+      {
+        "frame": 1,
+        "file": "10-in-motion/in-motion-01-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 37,
+        "file": "10-in-motion/in-motion-37-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 55,
+        "file": "10-in-motion/in-motion-55-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 63,
+        "file": "10-in-motion/in-motion-63-archive.jpg",
+        "role": "archive"
+      }
+    ]
+  }
+]

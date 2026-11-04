@@ -1,0 +1,686 @@
+[
+  {
+    "slug": "crowned-in-violet",
+    "name": "Crowned in Violet",
+    "line": "Sculpted gele, gold-leaf florals and a gaze that holds the room.",
+    "mood": [
+      "Regal",
+      "Sculptural",
+      "Still"
+    ],
+    "hero": 49,
+    "frames": [
+      {
+        "frame": 49,
+        "width": 1600,
+        "height": 2000,
+        "src": "photos/49-1280.webp",
+        "srcSet": "photos/49-640.webp 640w, photos/49-1280.webp 1280w",
+        "position": "62% 30%",
+        "trim": 0.05
+      },
+      {
+        "frame": 52,
+        "width": 1600,
+        "height": 2000,
+        "src": "photos/52-1280.webp",
+        "srcSet": "photos/52-640.webp 640w, photos/52-1280.webp 1280w",
+        "position": "62% 30%",
+        "trim": 0.05
+      },
+      {
+        "frame": 53,
+        "width": 1600,
+        "height": 2000,
+        "src": "photos/53-1280.webp",
+        "srcSet": "photos/53-640.webp 640w, photos/53-1280.webp 1280w",
+        "position": "62% 30%",
+        "trim": 0.05
+      },
+      {
+        "frame": 66,
+        "width": 1600,
+        "height": 2000,
+        "src": "photos/66-1280.webp",
+        "srcSet": "photos/66-640.webp 640w, photos/66-1280.webp 1280w",
+        "position": "62% 30%",
+        "trim": 0.05
+      }
+    ]
+  },
+  {
+    "slug": "twin-crowns",
+    "name": "Twin Crowns",
+    "line": "Two faces, one fabric: a study in sisterhood and shade.",
+    "mood": [
+      "Intimate",
+      "Tender",
+      "Mirrored"
+    ],
+    "hero": 65,
+    "frames": [
+      {
+        "frame": 65,
+        "width": 1600,
+        "height": 2000,
+        "src": "photos/65-1280.webp",
+        "srcSet": "photos/65-640.webp 640w, photos/65-1280.webp 1280w",
+        "position": "62% 30%",
+        "trim": 0.05
+      },
+      {
+        "frame": 50,
+        "width": 1600,
+        "height": 2000,
+        "src": "photos/50-1280.webp",
+        "srcSet": "photos/50-640.webp 640w, photos/50-1280.webp 1280w",
+        "position": "62% 30%",
+        "trim": 0.05
+      },
+      {
+        "frame": 64,
+        "width": 1600,
+        "height": 2000,
+        "src": "photos/64-1280.webp",
+        "srcSet": "photos/64-640.webp 640w, photos/64-1280.webp 1280w",
+        "position": "62% 30%",
+        "trim": 0.05
+      },
+      {
+        "frame": 67,
+        "width": 1600,
+        "height": 2000,
+        "src": "photos/67-1280.webp",
+        "srcSet": "photos/67-640.webp 640w, photos/67-1280.webp 1280w",
+        "position": "62% 30%",
+        "trim": 0.05
+      },
+      {
+        "frame": 51,
+        "width": 1600,
+        "height": 2000,
+        "src": "photos/51-1280.webp",
+        "srcSet": "photos/51-640.webp 640w, photos/51-1280.webp 1280w",
+        "position": "62% 30%",
+        "trim": 0.05
+      }
+    ]
+  },
+  {
+    "slug": "fuchsia-in-full-bloom",
+    "name": "Fuchsia in Full Bloom",
+    "line": "Sculpted shoulders, a sunlit courtyard and a dress that moves before she does.",
+    "mood": [
+      "Bold",
+      "Sunlit",
+      "Joyful"
+    ],
+    "hero": 14,
+    "frames": [
+      {
+        "frame": 14,
+        "width": 1328,
+        "height": 2000,
+        "src": "photos/14-1280.webp",
+        "srcSet": "photos/14-640.webp 640w, photos/14-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 21,
+        "width": 1328,
+        "height": 2000,
+        "src": "photos/21-1280.webp",
+        "srcSet": "photos/21-640.webp 640w, photos/21-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 25,
+        "width": 1328,
+        "height": 2000,
+        "src": "photos/25-1280.webp",
+        "srcSet": "photos/25-640.webp 640w, photos/25-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 31,
+        "width": 1328,
+        "height": 2000,
+        "src": "photos/31-1280.webp",
+        "srcSet": "photos/31-640.webp 640w, photos/31-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 15,
+        "width": 1328,
+        "height": 2000,
+        "src": "photos/15-1280.webp",
+        "srcSet": "photos/15-640.webp 640w, photos/15-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 16,
+        "width": 1328,
+        "height": 2000,
+        "src": "photos/16-1280.webp",
+        "srcSet": "photos/16-640.webp 640w, photos/16-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 17,
+        "width": 1328,
+        "height": 2000,
+        "src": "photos/17-1280.webp",
+        "srcSet": "photos/17-640.webp 640w, photos/17-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 18,
+        "width": 1328,
+        "height": 2000,
+        "src": "photos/18-1280.webp",
+        "srcSet": "photos/18-640.webp 640w, photos/18-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 19,
+        "width": 1328,
+        "height": 2000,
+        "src": "photos/19-1280.webp",
+        "srcSet": "photos/19-640.webp 640w, photos/19-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 20,
+        "width": 1328,
+        "height": 2000,
+        "src": "photos/20-1280.webp",
+        "srcSet": "photos/20-640.webp 640w, photos/20-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 22,
+        "width": 1328,
+        "height": 2000,
+        "src": "photos/22-1280.webp",
+        "srcSet": "photos/22-640.webp 640w, photos/22-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 23,
+        "width": 1328,
+        "height": 2000,
+        "src": "photos/23-1280.webp",
+        "srcSet": "photos/23-640.webp 640w, photos/23-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 24,
+        "width": 1328,
+        "height": 2000,
+        "src": "photos/24-1280.webp",
+        "srcSet": "photos/24-640.webp 640w, photos/24-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 26,
+        "width": 1328,
+        "height": 2000,
+        "src": "photos/26-1280.webp",
+        "srcSet": "photos/26-640.webp 640w, photos/26-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 27,
+        "width": 1328,
+        "height": 2000,
+        "src": "photos/27-1280.webp",
+        "srcSet": "photos/27-640.webp 640w, photos/27-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 28,
+        "width": 1328,
+        "height": 2000,
+        "src": "photos/28-1280.webp",
+        "srcSet": "photos/28-640.webp 640w, photos/28-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 29,
+        "width": 1328,
+        "height": 2000,
+        "src": "photos/29-1280.webp",
+        "srcSet": "photos/29-640.webp 640w, photos/29-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 30,
+        "width": 1328,
+        "height": 2000,
+        "src": "photos/30-1280.webp",
+        "srcSet": "photos/30-640.webp 640w, photos/30-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 32,
+        "width": 1328,
+        "height": 2000,
+        "src": "photos/32-1280.webp",
+        "srcSet": "photos/32-640.webp 640w, photos/32-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 33,
+        "width": 1328,
+        "height": 2000,
+        "src": "photos/33-1280.webp",
+        "srcSet": "photos/33-640.webp 640w, photos/33-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 39,
+        "width": 1328,
+        "height": 2000,
+        "src": "photos/39-1280.webp",
+        "srcSet": "photos/39-640.webp 640w, photos/39-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      }
+    ]
+  },
+  {
+    "slug": "runway-on-campus",
+    "name": "Runway on Campus",
+    "line": "Front steps, a festival banner and a full skirt caught mid-twirl.",
+    "mood": [
+      "Live",
+      "Festive",
+      "Public"
+    ],
+    "hero": 13,
+    "frames": [
+      {
+        "frame": 13,
+        "width": 1328,
+        "height": 2000,
+        "src": "photos/13-1280.webp",
+        "srcSet": "photos/13-640.webp 640w, photos/13-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 12,
+        "width": 1500,
+        "height": 2000,
+        "src": "photos/12-1280.webp",
+        "srcSet": "photos/12-640.webp 640w, photos/12-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 35,
+        "width": 1500,
+        "height": 2000,
+        "src": "photos/35-1280.webp",
+        "srcSet": "photos/35-640.webp 640w, photos/35-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 9,
+        "width": 1328,
+        "height": 2000,
+        "src": "photos/9-1280.webp",
+        "srcSet": "photos/9-640.webp 640w, photos/9-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 10,
+        "width": 1328,
+        "height": 2000,
+        "src": "photos/10-1280.webp",
+        "srcSet": "photos/10-640.webp 640w, photos/10-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 11,
+        "width": 1328,
+        "height": 2000,
+        "src": "photos/11-1280.webp",
+        "srcSet": "photos/11-640.webp 640w, photos/11-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 34,
+        "width": 1500,
+        "height": 2000,
+        "src": "photos/34-1280.webp",
+        "srcSet": "photos/34-640.webp 640w, photos/34-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 36,
+        "width": 1500,
+        "height": 2000,
+        "src": "photos/36-1280.webp",
+        "srcSet": "photos/36-640.webp 640w, photos/36-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      }
+    ]
+  },
+  {
+    "slug": "cobalt-siren",
+    "name": "Cobalt Siren",
+    "line": "Saturated blue, crimson drapery and thigh-high boots: studio drama turned all the way up.",
+    "mood": [
+      "Dramatic",
+      "Graphic",
+      "Sultry"
+    ],
+    "hero": 62,
+    "frames": [
+      {
+        "frame": 62,
+        "width": 1600,
+        "height": 2000,
+        "src": "photos/62-1280.webp",
+        "srcSet": "photos/62-640.webp 640w, photos/62-1280.webp 1280w",
+        "position": "62% 30%",
+        "trim": 0.05
+      },
+      {
+        "frame": 57,
+        "width": 1600,
+        "height": 2000,
+        "src": "photos/57-1280.webp",
+        "srcSet": "photos/57-640.webp 640w, photos/57-1280.webp 1280w",
+        "position": "62% 30%",
+        "trim": 0.05
+      },
+      {
+        "frame": 58,
+        "width": 1600,
+        "height": 2000,
+        "src": "photos/58-1280.webp",
+        "srcSet": "photos/58-640.webp 640w, photos/58-1280.webp 1280w",
+        "position": "62% 30%",
+        "trim": 0.05
+      },
+      {
+        "frame": 61,
+        "width": 1600,
+        "height": 2000,
+        "src": "photos/61-1280.webp",
+        "srcSet": "photos/61-640.webp 640w, photos/61-1280.webp 1280w",
+        "position": "62% 30%",
+        "trim": 0.05
+      },
+      {
+        "frame": 56,
+        "width": 1600,
+        "height": 2000,
+        "src": "photos/56-1280.webp",
+        "srcSet": "photos/56-640.webp 640w, photos/56-1280.webp 1280w",
+        "position": "62% 30%",
+        "trim": 0.05
+      },
+      {
+        "frame": 59,
+        "width": 1600,
+        "height": 2000,
+        "src": "photos/59-1280.webp",
+        "srcSet": "photos/59-640.webp 640w, photos/59-1280.webp 1280w",
+        "position": "62% 30%",
+        "trim": 0.05
+      },
+      {
+        "frame": 60,
+        "width": 1600,
+        "height": 2000,
+        "src": "photos/60-1280.webp",
+        "srcSet": "photos/60-640.webp 640w, photos/60-1280.webp 1280w",
+        "position": "62% 30%",
+        "trim": 0.05
+      }
+    ]
+  },
+  {
+    "slug": "soft-power-in-sage",
+    "name": "Soft Power in Sage",
+    "line": "Mint gele, liquid satin and a glow that does the talking.",
+    "mood": [
+      "Luminous",
+      "Polished",
+      "Bridal"
+    ],
+    "hero": 40,
+    "frames": [
+      {
+        "frame": 40,
+        "width": 1125,
+        "height": 2000,
+        "src": "photos/40-1125.webp",
+        "srcSet": "photos/40-640.webp 640w, photos/40-1125.webp 1125w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 38,
+        "width": 1125,
+        "height": 2000,
+        "src": "photos/38-1125.webp",
+        "srcSet": "photos/38-640.webp 640w, photos/38-1125.webp 1125w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 41,
+        "width": 828,
+        "height": 1241,
+        "src": "photos/41-828.webp",
+        "srcSet": "photos/41-640.webp 640w, photos/41-828.webp 828w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 42,
+        "width": 828,
+        "height": 1236,
+        "src": "photos/42-828.webp",
+        "srcSet": "photos/42-640.webp 640w, photos/42-828.webp 828w",
+        "position": "50% 30%",
+        "trim": 0
+      }
+    ]
+  },
+  {
+    "slug": "ankara-sunday",
+    "name": "Ankara Sunday",
+    "line": "Wax print, puff sleeves and a sky the colour of a holiday.",
+    "mood": [
+      "Heritage",
+      "Playful",
+      "Bright"
+    ],
+    "hero": 45,
+    "frames": [
+      {
+        "frame": 45,
+        "width": 750,
+        "height": 1000,
+        "src": "photos/45-750.webp",
+        "srcSet": "photos/45-640.webp 640w, photos/45-750.webp 750w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 43,
+        "width": 750,
+        "height": 1000,
+        "src": "photos/43-750.webp",
+        "srcSet": "photos/43-640.webp 640w, photos/43-750.webp 750w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 44,
+        "width": 692,
+        "height": 969,
+        "src": "photos/44-692.webp",
+        "srcSet": "photos/44-640.webp 640w, photos/44-692.webp 692w",
+        "position": "50% 30%",
+        "trim": 0
+      }
+    ]
+  },
+  {
+    "slug": "off-duty-noir",
+    "name": "Off-Duty Noir",
+    "line": "Black tank, braids and shades on: campus streets, unposed and self-assured.",
+    "mood": [
+      "Cool",
+      "Casual",
+      "Real"
+    ],
+    "hero": 3,
+    "frames": [
+      {
+        "frame": 3,
+        "width": 1333,
+        "height": 2000,
+        "src": "photos/3-1280.webp",
+        "srcSet": "photos/3-640.webp 640w, photos/3-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 7,
+        "width": 1333,
+        "height": 2000,
+        "src": "photos/7-1280.webp",
+        "srcSet": "photos/7-640.webp 640w, photos/7-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 8,
+        "width": 1333,
+        "height": 2000,
+        "src": "photos/8-1280.webp",
+        "srcSet": "photos/8-640.webp 640w, photos/8-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 54,
+        "width": 960,
+        "height": 1280,
+        "src": "photos/54-960.webp",
+        "srcSet": "photos/54-640.webp 640w, photos/54-960.webp 960w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 2,
+        "width": 1333,
+        "height": 2000,
+        "src": "photos/2-1280.webp",
+        "srcSet": "photos/2-640.webp 640w, photos/2-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 4,
+        "width": 1333,
+        "height": 2000,
+        "src": "photos/4-1280.webp",
+        "srcSet": "photos/4-640.webp 640w, photos/4-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 5,
+        "width": 1333,
+        "height": 2000,
+        "src": "photos/5-1280.webp",
+        "srcSet": "photos/5-640.webp 640w, photos/5-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 6,
+        "width": 1333,
+        "height": 2000,
+        "src": "photos/6-1280.webp",
+        "srcSet": "photos/6-640.webp 640w, photos/6-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      }
+    ]
+  },
+  {
+    "slug": "garden-reverie",
+    "name": "Garden Reverie",
+    "line": "A crown of leaves, a string of pearls and daydreams in black and white.",
+    "mood": [
+      "Dreamy",
+      "Natural",
+      "Nostalgic"
+    ],
+    "hero": 46,
+    "frames": [
+      {
+        "frame": 46,
+        "width": 756,
+        "height": 1008,
+        "src": "photos/46-756.webp",
+        "srcSet": "photos/46-640.webp 640w, photos/46-756.webp 756w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 47,
+        "width": 756,
+        "height": 1008,
+        "src": "photos/47-756.webp",
+        "srcSet": "photos/47-640.webp 640w, photos/47-756.webp 756w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 48,
+        "width": 756,
+        "height": 1008,
+        "src": "photos/48-756.webp",
+        "srcSet": "photos/48-640.webp 640w, photos/48-756.webp 756w",
+        "position": "50% 30%",
+        "trim": 0
+      }
+    ]
+  }
+]
