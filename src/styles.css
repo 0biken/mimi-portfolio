@@ -1,0 +1,86 @@
+@import "tailwindcss";
+
+/* Brand tokens from the Idunuoluwa Miracle brand guide. One accent (fuchsia), sharp corners. */
+:root {
+  --bg: #F6EFE8;        /* paper cream */
+  --surface: #EFE3DF;   /* cream tinted toward dusted rose */
+  --ink: #2D1735;       /* midnight plum, 14.3:1 on bg */
+  --muted: #5E4A63;     /* 7.0:1 on bg */
+  --accent: #D82C79;    /* fuchsia, 4.0:1: large type and rules only */
+  --line: #E2CCD7;
+  --on-ink: #F6EFE8;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1E0F24;
+    --surface: #28152F;
+    --ink: #F6EFE8;     /* 16:1 */
+    --muted: #B8A2B8;   /* 7.7:1 */
+    --accent: #F0609E;  /* 6.0:1 */
+    --line: #3D2645;
+    --on-ink: #1E0F24;
+    color-scheme: dark;
+  }
+}
+
+@theme inline {
+  --font-display: 'Bodoni Moda Variable', 'Bodoni MT', Didot, serif;
+  --font-sans: 'Geist Variable', ui-sans-serif, system-ui, sans-serif;
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-accent: var(--accent);
+  --color-line: var(--line);
+  --color-on-ink: var(--on-ink);
+  --ease-out-strong: cubic-bezier(0.23, 1, 0.32, 1);
+  --ease-in-out-strong: cubic-bezier(0.77, 0, 0.175, 1);
+}
+
+html { scroll-behavior: smooth; scroll-padding-top: 4rem; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 4px; }
+
+/* Display type: Bodoni Moda's optical sizing keeps hairlines readable at every size. */
+.display { font-family: var(--font-display); font-optical-sizing: auto; font-weight: 400; letter-spacing: -0.01em; }
+.display em { font-style: italic; color: var(--accent); }
+
+/* Caps labels get +8% tracking, matching the guide. */
+.label { font-size: 0.75rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; }
+
+/* The one marquee on the page. */
+@keyframes marquee { to { transform: translateX(-50%); } }
+.marquee-track { animation: marquee 70s linear infinite; }
+.marquee:hover .marquee-track { animation-play-state: paused; }
+@media (prefers-reduced-motion: reduce) { .marquee-track { animation: none; } }
+
+/* Story scenes (prologue and the nine chapters) are always shot at night, whatever the system theme. */
+.scene-dark {
+  --bg: #1E0F24;
+  --surface: #28152F;
+  --ink: #F6EFE8;
+  --muted: #B8A2B8;
+  --accent: #F0609E;
+  --line: #3D2645;
+  --on-ink: #1E0F24;
+  color-scheme: dark;
+  color: var(--ink);
+}
+
+@keyframes fade { from { opacity: 0; } }
+@keyframes scrollhint {
+  0% { transform: scaleX(0); transform-origin: left; }
+  50% { transform: scaleX(1); transform-origin: left; }
+  50.01% { transform-origin: right; }
+  100% { transform: scaleX(0); transform-origin: right; }
+}
