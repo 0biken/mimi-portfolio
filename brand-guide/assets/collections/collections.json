@@ -354,6 +354,11 @@
         "frame": 45,
         "file": "07-ankara-sunday/ankara-sunday-45-hero.jpg",
         "role": "hero"
+      },
+      {
+        "frame": 101,
+        "file": "07-ankara-sunday/ankara-sunday-101-pick.jpg",
+        "role": "pick"
       }
     ]
   },
@@ -441,8 +446,439 @@
     ]
   },
   {
+    "collection": "Rose Quartz on Campus",
+    "folder": "10-rose-quartz-on-campus",
+    "line": "A hand-crocheted pink top, crisp white sleeves and golden-hour light through the trees.",
+    "mood": [
+      "Playful",
+      "Handmade",
+      "Golden"
+    ],
+    "best_for": "Crochet and knitwear labels, accessories, campus lifestyle and styling content.",
+    "note": "Many near-duplicate poses. Lead with the picks; archive the rest.",
+    "files": [
+      {
+        "frame": 68,
+        "file": "10-rose-quartz-on-campus/rose-quartz-on-campus-68-hero.jpg",
+        "role": "hero"
+      },
+      {
+        "frame": 69,
+        "file": "10-rose-quartz-on-campus/rose-quartz-on-campus-69-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 70,
+        "file": "10-rose-quartz-on-campus/rose-quartz-on-campus-70-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 71,
+        "file": "10-rose-quartz-on-campus/rose-quartz-on-campus-71-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 72,
+        "file": "10-rose-quartz-on-campus/rose-quartz-on-campus-72-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 73,
+        "file": "10-rose-quartz-on-campus/rose-quartz-on-campus-73-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 74,
+        "file": "10-rose-quartz-on-campus/rose-quartz-on-campus-74-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 75,
+        "file": "10-rose-quartz-on-campus/rose-quartz-on-campus-75-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 76,
+        "file": "10-rose-quartz-on-campus/rose-quartz-on-campus-76-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 77,
+        "file": "10-rose-quartz-on-campus/rose-quartz-on-campus-77-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 78,
+        "file": "10-rose-quartz-on-campus/rose-quartz-on-campus-78-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 79,
+        "file": "10-rose-quartz-on-campus/rose-quartz-on-campus-79-archive.jpg",
+        "role": "archive"
+      }
+    ]
+  },
+  {
+    "collection": "Marigold & Umbrella",
+    "folder": "11-marigold-and-umbrella",
+    "line": "A buttercup mini dress, a crimson umbrella and long golden braids in a field of yellow blossom.",
+    "mood": [
+      "Sunny",
+      "Flirty",
+      "Vivid"
+    ],
+    "best_for": "Summer dresses, braids and hair accessories, spring campaigns.",
+    "note": "",
+    "files": [
+      {
+        "frame": 80,
+        "file": "11-marigold-and-umbrella/marigold-and-umbrella-80-hero.jpg",
+        "role": "hero"
+      },
+      {
+        "frame": 81,
+        "file": "11-marigold-and-umbrella/marigold-and-umbrella-81-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 82,
+        "file": "11-marigold-and-umbrella/marigold-and-umbrella-82-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 83,
+        "file": "11-marigold-and-umbrella/marigold-and-umbrella-83-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 84,
+        "file": "11-marigold-and-umbrella/marigold-and-umbrella-84-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 85,
+        "file": "11-marigold-and-umbrella/marigold-and-umbrella-85-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 86,
+        "file": "11-marigold-and-umbrella/marigold-and-umbrella-86-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 87,
+        "file": "11-marigold-and-umbrella/marigold-and-umbrella-87-archive.jpg",
+        "role": "archive"
+      }
+    ]
+  },
+  {
+    "collection": "Blush Tailoring",
+    "folder": "12-blush-tailoring",
+    "line": "A tweed-trim blush suit against peach: quiet, tailored and unhurried.",
+    "mood": [
+      "Refined",
+      "Soft",
+      "Editorial"
+    ],
+    "best_for": "Tailoring, handbags, jewellery and corporate-chic campaigns.",
+    "note": "A photographer watermark is faintly visible in the studio frames; request clean files for campaigns.",
+    "files": [
+      {
+        "frame": 88,
+        "file": "12-blush-tailoring/blush-tailoring-88-hero.jpg",
+        "role": "hero"
+      },
+      {
+        "frame": 89,
+        "file": "12-blush-tailoring/blush-tailoring-89-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 90,
+        "file": "12-blush-tailoring/blush-tailoring-90-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 91,
+        "file": "12-blush-tailoring/blush-tailoring-91-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 92,
+        "file": "12-blush-tailoring/blush-tailoring-92-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 93,
+        "file": "12-blush-tailoring/blush-tailoring-93-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 94,
+        "file": "12-blush-tailoring/blush-tailoring-94-archive.jpg",
+        "role": "archive"
+      }
+    ]
+  },
+  {
+    "collection": "Glow Notes",
+    "folder": "13-glow-notes",
+    "line": "Glossy skin, graphic liner and a sleek low bun, lit from the side.",
+    "mood": [
+      "Luminous",
+      "Moody",
+      "Precise"
+    ],
+    "best_for": "Makeup artistry, skincare, lighting and beauty editorials.",
+    "note": "Confirm the makeup credit before publishing.",
+    "files": [
+      {
+        "frame": 95,
+        "file": "13-glow-notes/glow-notes-95-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 96,
+        "file": "13-glow-notes/glow-notes-96-hero.jpg",
+        "role": "hero"
+      },
+      {
+        "frame": 97,
+        "file": "13-glow-notes/glow-notes-97-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 98,
+        "file": "13-glow-notes/glow-notes-98-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 99,
+        "file": "13-glow-notes/glow-notes-99-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 100,
+        "file": "13-glow-notes/glow-notes-100-archive.jpg",
+        "role": "archive"
+      }
+    ]
+  },
+  {
+    "collection": "Pink Satin Gele",
+    "folder": "14-pink-satin-gele",
+    "line": "Multicolour gele, feathered satin and crystal drops: celebration, fully dressed.",
+    "mood": [
+      "Festive",
+      "Glamorous",
+      "Bridal"
+    ],
+    "best_for": "Bridal, gele stylists, owambe and festive fashion.",
+    "note": "",
+    "files": [
+      {
+        "frame": 102,
+        "file": "14-pink-satin-gele/pink-satin-gele-102-hero.jpg",
+        "role": "hero"
+      },
+      {
+        "frame": 103,
+        "file": "14-pink-satin-gele/pink-satin-gele-103-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 104,
+        "file": "14-pink-satin-gele/pink-satin-gele-104-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 105,
+        "file": "14-pink-satin-gele/pink-satin-gele-105-archive.jpg",
+        "role": "archive"
+      }
+    ]
+  },
+  {
+    "collection": "Nail Atelier",
+    "folder": "15-nail-atelier",
+    "line": "Long French tips, watermelon pops and tiny charms, shot close.",
+    "mood": [
+      "Playful",
+      "Glossy",
+      "Detailed"
+    ],
+    "best_for": "Nail brands and technicians, jewellery and ring features, product close-ups.",
+    "note": "",
+    "files": [
+      {
+        "frame": 106,
+        "file": "15-nail-atelier/nail-atelier-106-hero.jpg",
+        "role": "hero"
+      },
+      {
+        "frame": 107,
+        "file": "15-nail-atelier/nail-atelier-107-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 108,
+        "file": "15-nail-atelier/nail-atelier-108-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 109,
+        "file": "15-nail-atelier/nail-atelier-109-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 110,
+        "file": "15-nail-atelier/nail-atelier-110-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 111,
+        "file": "15-nail-atelier/nail-atelier-111-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 112,
+        "file": "15-nail-atelier/nail-atelier-112-archive.jpg",
+        "role": "archive"
+      }
+    ]
+  },
+  {
+    "collection": "Slick Back",
+    "folder": "16-slick-back",
+    "line": "A glossy high ponytail, winged liner and a grey wall that does the posing too.",
+    "mood": [
+      "Sleek",
+      "Candid",
+      "Cool"
+    ],
+    "best_for": "Hair, wig and salon brands, beauty and lifestyle social content.",
+    "note": "",
+    "files": [
+      {
+        "frame": 113,
+        "file": "16-slick-back/slick-back-113-hero.jpg",
+        "role": "hero"
+      },
+      {
+        "frame": 114,
+        "file": "16-slick-back/slick-back-114-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 115,
+        "file": "16-slick-back/slick-back-115-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 116,
+        "file": "16-slick-back/slick-back-116-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 117,
+        "file": "16-slick-back/slick-back-117-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 118,
+        "file": "16-slick-back/slick-back-118-archive.jpg",
+        "role": "archive"
+      }
+    ]
+  },
+  {
+    "collection": "Checkmate in Yellow",
+    "folder": "17-checkmate-in-yellow",
+    "line": "A yellow-and-black check mini dress, knee boots and a numbered contestant tag.",
+    "mood": [
+      "Graphic",
+      "Confident",
+      "Pageant"
+    ],
+    "best_for": "Print designers, boots and eyewear, pageant and event recaps.",
+    "note": "Contestant number is visible; confirm usage with the organisers.",
+    "files": [
+      {
+        "frame": 119,
+        "file": "17-checkmate-in-yellow/checkmate-in-yellow-119-hero.jpg",
+        "role": "hero"
+      },
+      {
+        "frame": 120,
+        "file": "17-checkmate-in-yellow/checkmate-in-yellow-120-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 121,
+        "file": "17-checkmate-in-yellow/checkmate-in-yellow-121-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 122,
+        "file": "17-checkmate-in-yellow/checkmate-in-yellow-122-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 123,
+        "file": "17-checkmate-in-yellow/checkmate-in-yellow-123-archive.jpg",
+        "role": "archive"
+      },
+      {
+        "frame": 124,
+        "file": "17-checkmate-in-yellow/checkmate-in-yellow-124-archive.jpg",
+        "role": "archive"
+      }
+    ]
+  },
+  {
+    "collection": "Denim & Ankara",
+    "folder": "18-denim-and-ankara",
+    "line": "Statement tees, green Ankara trousers and a friend who matches the energy.",
+    "mood": [
+      "Easygoing",
+      "Bold",
+      "Together"
+    ],
+    "best_for": "Streetwear, Ankara trouser lines, couple and friend-duo stories.",
+    "note": "Features a second person. Get their consent before any use.",
+    "files": [
+      {
+        "frame": 125,
+        "file": "18-denim-and-ankara/denim-and-ankara-125-hero.jpg",
+        "role": "hero"
+      },
+      {
+        "frame": 126,
+        "file": "18-denim-and-ankara/denim-and-ankara-126-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 127,
+        "file": "18-denim-and-ankara/denim-and-ankara-127-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 128,
+        "file": "18-denim-and-ankara/denim-and-ankara-128-pick.jpg",
+        "role": "pick"
+      },
+      {
+        "frame": 129,
+        "file": "18-denim-and-ankara/denim-and-ankara-129-archive.jpg",
+        "role": "archive"
+      }
+    ]
+  },
+  {
     "collection": "In Motion",
-    "folder": "10-in-motion",
+    "folder": "19-in-motion",
     "line": "Video clips; poster frames only.",
     "mood": [],
     "best_for": "",
@@ -450,22 +886,22 @@
     "files": [
       {
         "frame": 1,
-        "file": "10-in-motion/in-motion-01-archive.jpg",
+        "file": "19-in-motion/in-motion-01-archive.jpg",
         "role": "archive"
       },
       {
         "frame": 37,
-        "file": "10-in-motion/in-motion-37-archive.jpg",
+        "file": "19-in-motion/in-motion-37-archive.jpg",
         "role": "archive"
       },
       {
         "frame": 55,
-        "file": "10-in-motion/in-motion-55-archive.jpg",
+        "file": "19-in-motion/in-motion-55-archive.jpg",
         "role": "archive"
       },
       {
         "frame": 63,
-        "file": "10-in-motion/in-motion-63-archive.jpg",
+        "file": "19-in-motion/in-motion-63-archive.jpg",
         "role": "archive"
       }
     ]

@@ -555,6 +555,15 @@
         "srcSet": "photos/44-640.webp 640w, photos/44-692.webp 692w",
         "position": "50% 30%",
         "trim": 0
+      },
+      {
+        "frame": 101,
+        "width": 750,
+        "height": 1000,
+        "src": "photos/101-750.webp",
+        "srcSet": "photos/101-640.webp 640w, photos/101-750.webp 750w",
+        "position": "50% 30%",
+        "trim": 0
       }
     ]
   },
@@ -678,6 +687,672 @@
         "height": 1008,
         "src": "photos/48-756.webp",
         "srcSet": "photos/48-640.webp 640w, photos/48-756.webp 756w",
+        "position": "50% 30%",
+        "trim": 0
+      }
+    ]
+  },
+  {
+    "slug": "rose-quartz-on-campus",
+    "name": "Rose Quartz on Campus",
+    "line": "A hand-crocheted pink top, crisp white sleeves and golden-hour light through the trees.",
+    "mood": [
+      "Playful",
+      "Handmade",
+      "Golden"
+    ],
+    "hero": 68,
+    "frames": [
+      {
+        "frame": 68,
+        "width": 756,
+        "height": 1008,
+        "src": "photos/68-756.webp",
+        "srcSet": "photos/68-640.webp 640w, photos/68-756.webp 756w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 69,
+        "width": 2048,
+        "height": 2731,
+        "src": "photos/69-1280.webp",
+        "srcSet": "photos/69-640.webp 640w, photos/69-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 70,
+        "width": 2048,
+        "height": 2731,
+        "src": "photos/70-1280.webp",
+        "srcSet": "photos/70-640.webp 640w, photos/70-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 71,
+        "width": 2048,
+        "height": 2731,
+        "src": "photos/71-1280.webp",
+        "srcSet": "photos/71-640.webp 640w, photos/71-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 72,
+        "width": 2048,
+        "height": 2731,
+        "src": "photos/72-1280.webp",
+        "srcSet": "photos/72-640.webp 640w, photos/72-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 73,
+        "width": 2048,
+        "height": 2731,
+        "src": "photos/73-1280.webp",
+        "srcSet": "photos/73-640.webp 640w, photos/73-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 74,
+        "width": 2048,
+        "height": 2731,
+        "src": "photos/74-1280.webp",
+        "srcSet": "photos/74-640.webp 640w, photos/74-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 75,
+        "width": 2048,
+        "height": 2731,
+        "src": "photos/75-1280.webp",
+        "srcSet": "photos/75-640.webp 640w, photos/75-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 76,
+        "width": 756,
+        "height": 1008,
+        "src": "photos/76-756.webp",
+        "srcSet": "photos/76-640.webp 640w, photos/76-756.webp 756w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 77,
+        "width": 2048,
+        "height": 2731,
+        "src": "photos/77-1280.webp",
+        "srcSet": "photos/77-640.webp 640w, photos/77-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 78,
+        "width": 2048,
+        "height": 2731,
+        "src": "photos/78-1280.webp",
+        "srcSet": "photos/78-640.webp 640w, photos/78-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 79,
+        "width": 756,
+        "height": 1008,
+        "src": "photos/79-756.webp",
+        "srcSet": "photos/79-640.webp 640w, photos/79-756.webp 756w",
+        "position": "50% 30%",
+        "trim": 0
+      }
+    ]
+  },
+  {
+    "slug": "marigold-and-umbrella",
+    "name": "Marigold & Umbrella",
+    "line": "A buttercup mini dress, a crimson umbrella and long golden braids in a field of yellow blossom.",
+    "mood": [
+      "Sunny",
+      "Flirty",
+      "Vivid"
+    ],
+    "hero": 80,
+    "frames": [
+      {
+        "frame": 80,
+        "width": 756,
+        "height": 1008,
+        "src": "photos/80-756.webp",
+        "srcSet": "photos/80-640.webp 640w, photos/80-756.webp 756w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 81,
+        "width": 756,
+        "height": 1008,
+        "src": "photos/81-756.webp",
+        "srcSet": "photos/81-640.webp 640w, photos/81-756.webp 756w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 82,
+        "width": 756,
+        "height": 1008,
+        "src": "photos/82-756.webp",
+        "srcSet": "photos/82-640.webp 640w, photos/82-756.webp 756w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 83,
+        "width": 756,
+        "height": 1008,
+        "src": "photos/83-756.webp",
+        "srcSet": "photos/83-640.webp 640w, photos/83-756.webp 756w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 84,
+        "width": 756,
+        "height": 1008,
+        "src": "photos/84-756.webp",
+        "srcSet": "photos/84-640.webp 640w, photos/84-756.webp 756w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 85,
+        "width": 756,
+        "height": 1008,
+        "src": "photos/85-756.webp",
+        "srcSet": "photos/85-640.webp 640w, photos/85-756.webp 756w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 86,
+        "width": 756,
+        "height": 1008,
+        "src": "photos/86-756.webp",
+        "srcSet": "photos/86-640.webp 640w, photos/86-756.webp 756w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 87,
+        "width": 756,
+        "height": 1008,
+        "src": "photos/87-756.webp",
+        "srcSet": "photos/87-640.webp 640w, photos/87-756.webp 756w",
+        "position": "50% 30%",
+        "trim": 0
+      }
+    ]
+  },
+  {
+    "slug": "blush-tailoring",
+    "name": "Blush Tailoring",
+    "line": "A tweed-trim blush suit against peach: quiet, tailored and unhurried.",
+    "mood": [
+      "Refined",
+      "Soft",
+      "Editorial"
+    ],
+    "hero": 88,
+    "frames": [
+      {
+        "frame": 88,
+        "width": 2048,
+        "height": 2560,
+        "src": "photos/88-1280.webp",
+        "srcSet": "photos/88-640.webp 640w, photos/88-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 89,
+        "width": 2048,
+        "height": 2561,
+        "src": "photos/89-1280.webp",
+        "srcSet": "photos/89-640.webp 640w, photos/89-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 90,
+        "width": 2048,
+        "height": 2810,
+        "src": "photos/90-1280.webp",
+        "srcSet": "photos/90-640.webp 640w, photos/90-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 91,
+        "width": 2048,
+        "height": 2561,
+        "src": "photos/91-1280.webp",
+        "srcSet": "photos/91-640.webp 640w, photos/91-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 92,
+        "width": 2048,
+        "height": 3078,
+        "src": "photos/92-1280.webp",
+        "srcSet": "photos/92-640.webp 640w, photos/92-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 93,
+        "width": 2048,
+        "height": 2561,
+        "src": "photos/93-1280.webp",
+        "srcSet": "photos/93-640.webp 640w, photos/93-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 94,
+        "width": 2048,
+        "height": 2561,
+        "src": "photos/94-1280.webp",
+        "srcSet": "photos/94-640.webp 640w, photos/94-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      }
+    ]
+  },
+  {
+    "slug": "glow-notes",
+    "name": "Glow Notes",
+    "line": "Glossy skin, graphic liner and a sleek low bun, lit from the side.",
+    "mood": [
+      "Luminous",
+      "Moody",
+      "Precise"
+    ],
+    "hero": 96,
+    "frames": [
+      {
+        "frame": 96,
+        "width": 540,
+        "height": 960,
+        "src": "photos/96-540.webp",
+        "srcSet": "photos/96-540.webp 540w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 95,
+        "width": 540,
+        "height": 960,
+        "src": "photos/95-540.webp",
+        "srcSet": "photos/95-540.webp 540w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 97,
+        "width": 1836,
+        "height": 2448,
+        "src": "photos/97-1280.webp",
+        "srcSet": "photos/97-640.webp 640w, photos/97-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 98,
+        "width": 1836,
+        "height": 2448,
+        "src": "photos/98-1280.webp",
+        "srcSet": "photos/98-640.webp 640w, photos/98-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 99,
+        "width": 1836,
+        "height": 2448,
+        "src": "photos/99-1280.webp",
+        "srcSet": "photos/99-640.webp 640w, photos/99-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 100,
+        "width": 1836,
+        "height": 2448,
+        "src": "photos/100-1280.webp",
+        "srcSet": "photos/100-640.webp 640w, photos/100-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      }
+    ]
+  },
+  {
+    "slug": "pink-satin-gele",
+    "name": "Pink Satin Gele",
+    "line": "Multicolour gele, feathered satin and crystal drops: celebration, fully dressed.",
+    "mood": [
+      "Festive",
+      "Glamorous",
+      "Bridal"
+    ],
+    "hero": 102,
+    "frames": [
+      {
+        "frame": 102,
+        "width": 1836,
+        "height": 2448,
+        "src": "photos/102-1280.webp",
+        "srcSet": "photos/102-640.webp 640w, photos/102-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 103,
+        "width": 1836,
+        "height": 2448,
+        "src": "photos/103-1280.webp",
+        "srcSet": "photos/103-640.webp 640w, photos/103-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 104,
+        "width": 1836,
+        "height": 2448,
+        "src": "photos/104-1280.webp",
+        "srcSet": "photos/104-640.webp 640w, photos/104-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 105,
+        "width": 2048,
+        "height": 3482,
+        "src": "photos/105-1280.webp",
+        "srcSet": "photos/105-640.webp 640w, photos/105-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      }
+    ]
+  },
+  {
+    "slug": "nail-atelier",
+    "name": "Nail Atelier",
+    "line": "Long French tips, watermelon pops and tiny charms, shot close.",
+    "mood": [
+      "Playful",
+      "Glossy",
+      "Detailed"
+    ],
+    "hero": 106,
+    "frames": [
+      {
+        "frame": 106,
+        "width": 720,
+        "height": 1280,
+        "src": "photos/106-720.webp",
+        "srcSet": "photos/106-640.webp 640w, photos/106-720.webp 720w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 107,
+        "width": 1280,
+        "height": 960,
+        "src": "photos/107-1280.webp",
+        "srcSet": "photos/107-640.webp 640w, photos/107-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 108,
+        "width": 960,
+        "height": 1280,
+        "src": "photos/108-960.webp",
+        "srcSet": "photos/108-640.webp 640w, photos/108-960.webp 960w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 109,
+        "width": 608,
+        "height": 1080,
+        "src": "photos/109-608.webp",
+        "srcSet": "photos/109-608.webp 608w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 110,
+        "width": 1920,
+        "height": 2560,
+        "src": "photos/110-1280.webp",
+        "srcSet": "photos/110-640.webp 640w, photos/110-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 111,
+        "width": 1440,
+        "height": 2560,
+        "src": "photos/111-1280.webp",
+        "srcSet": "photos/111-640.webp 640w, photos/111-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 112,
+        "width": 1920,
+        "height": 2560,
+        "src": "photos/112-1280.webp",
+        "srcSet": "photos/112-640.webp 640w, photos/112-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      }
+    ]
+  },
+  {
+    "slug": "slick-back",
+    "name": "Slick Back",
+    "line": "A glossy high ponytail, winged liner and a grey wall that does the posing too.",
+    "mood": [
+      "Sleek",
+      "Candid",
+      "Cool"
+    ],
+    "hero": 113,
+    "frames": [
+      {
+        "frame": 113,
+        "width": 1242,
+        "height": 2208,
+        "src": "photos/113-1242.webp",
+        "srcSet": "photos/113-640.webp 640w, photos/113-1242.webp 1242w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 114,
+        "width": 2048,
+        "height": 2731,
+        "src": "photos/114-1280.webp",
+        "srcSet": "photos/114-640.webp 640w, photos/114-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 115,
+        "width": 810,
+        "height": 1080,
+        "src": "photos/115-810.webp",
+        "srcSet": "photos/115-640.webp 640w, photos/115-810.webp 810w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 116,
+        "width": 1242,
+        "height": 2208,
+        "src": "photos/116-1242.webp",
+        "srcSet": "photos/116-640.webp 640w, photos/116-1242.webp 1242w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 117,
+        "width": 1920,
+        "height": 2560,
+        "src": "photos/117-1280.webp",
+        "srcSet": "photos/117-640.webp 640w, photos/117-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 118,
+        "width": 1242,
+        "height": 2208,
+        "src": "photos/118-1242.webp",
+        "srcSet": "photos/118-640.webp 640w, photos/118-1242.webp 1242w",
+        "position": "50% 30%",
+        "trim": 0
+      }
+    ]
+  },
+  {
+    "slug": "checkmate-in-yellow",
+    "name": "Checkmate in Yellow",
+    "line": "A yellow-and-black check mini dress, knee boots and a numbered contestant tag.",
+    "mood": [
+      "Graphic",
+      "Confident",
+      "Pageant"
+    ],
+    "hero": 119,
+    "frames": [
+      {
+        "frame": 119,
+        "width": 1920,
+        "height": 2560,
+        "src": "photos/119-1280.webp",
+        "srcSet": "photos/119-640.webp 640w, photos/119-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 120,
+        "width": 810,
+        "height": 1080,
+        "src": "photos/120-810.webp",
+        "srcSet": "photos/120-640.webp 640w, photos/120-810.webp 810w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 121,
+        "width": 1920,
+        "height": 2560,
+        "src": "photos/121-1280.webp",
+        "srcSet": "photos/121-640.webp 640w, photos/121-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 122,
+        "width": 1920,
+        "height": 2560,
+        "src": "photos/122-1280.webp",
+        "srcSet": "photos/122-640.webp 640w, photos/122-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 123,
+        "width": 1920,
+        "height": 2560,
+        "src": "photos/123-1280.webp",
+        "srcSet": "photos/123-640.webp 640w, photos/123-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 124,
+        "width": 1920,
+        "height": 2560,
+        "src": "photos/124-1280.webp",
+        "srcSet": "photos/124-640.webp 640w, photos/124-1280.webp 1280w",
+        "position": "50% 30%",
+        "trim": 0
+      }
+    ]
+  },
+  {
+    "slug": "denim-and-ankara",
+    "name": "Denim & Ankara",
+    "line": "Statement tees, green Ankara trousers and a friend who matches the energy.",
+    "mood": [
+      "Easygoing",
+      "Bold",
+      "Together"
+    ],
+    "hero": 125,
+    "frames": [
+      {
+        "frame": 125,
+        "width": 720,
+        "height": 1612,
+        "src": "photos/125-720.webp",
+        "srcSet": "photos/125-640.webp 640w, photos/125-720.webp 720w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 126,
+        "width": 960,
+        "height": 1018,
+        "src": "photos/126-960.webp",
+        "srcSet": "photos/126-640.webp 640w, photos/126-960.webp 960w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 127,
+        "width": 855,
+        "height": 1138,
+        "src": "photos/127-855.webp",
+        "srcSet": "photos/127-640.webp 640w, photos/127-855.webp 855w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 128,
+        "width": 855,
+        "height": 1138,
+        "src": "photos/128-855.webp",
+        "srcSet": "photos/128-640.webp 640w, photos/128-855.webp 855w",
+        "position": "50% 30%",
+        "trim": 0
+      },
+      {
+        "frame": 129,
+        "width": 911,
+        "height": 1214,
+        "src": "photos/129-911.webp",
+        "srcSet": "photos/129-640.webp 640w, photos/129-911.webp 911w",
         "position": "50% 30%",
         "trim": 0
       }

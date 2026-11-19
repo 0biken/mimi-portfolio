@@ -4,6 +4,8 @@ import type { Collection } from './data/site'
 import { Nav } from './components/Nav'
 import { Hero } from './components/Hero'
 import { Journey } from './components/Journey'
+import { MoreCollections } from './components/MoreCollections'
+import { InMotion } from './components/InMotion'
 import { CollectionGallery } from './components/CollectionGallery'
 import { Collaborations } from './components/Collaborations'
 import { About } from './components/About'
@@ -26,6 +28,8 @@ export default function App() {
         <main>
           <Hero />
           <Journey onOpen={show} />
+          <MoreCollections onOpen={show} />
+          <InMotion />
           <Collaborations />
           <About />
           <Services />
